@@ -1,0 +1,31 @@
+.navbar{
+    height: 80px;
+    background-color: rgb(15, 20, 46);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+}
+
+.logo h1 {
+    font-size: xx-large;
+}
+
+.nav-quick-links ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+}
+
+.nav-quick-links ul li {
+    padding: .7rem 1rem;
+}
+
+
+.links {
+    color: rgb(196, 196, 196) ;
+}
+
+.logo h1 a {
+    color: rgb(221, 221, 221);
+  text-shadow: rgb(221, 221, 221) 2px 2px 2px;
+}

@@ -1,0 +1,26 @@
+.cart-container {
+    /* border: 1px solid gray; */
+    /* height: 50vh; */
+    display: flex;
+    justify-content: center;
+}
+
+
+.items-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 10px; */
+    box-sizing: border-box;
+    width: 90%;
+    border: 1px solid rgba(37, 37, 37, 0.733);
+    box-shadow: 1px 1px 10px rgb(19, 19, 19);
+}
+
+.items-info img {
+    height: 110px;
+}
+
+.items-info p {
+    margin: 10px;
+}
